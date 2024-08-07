@@ -37,12 +37,12 @@ body {
 
 #unit-entry-shell input {
     background: none;
-    border: 2px, solid, #B295FF;
+    border: 2px, solid, #eae2ff;
     border-radius: 5px;
     height: 83px;
     width: 117px;
     margin-bottom: 25px;
-    font-size: 58px;
+    font-size: 40px;
     font-weight: 800;
     text-align: center;
     color: #FFF;
