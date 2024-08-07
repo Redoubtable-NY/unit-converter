@@ -10,9 +10,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 80%;
-    width: 60%;
-    min-width: 360px;
+    height: 90%;
+    width: 80%;
+    min-width: 325px;
 }
 
 #unit-entry-shell {
@@ -26,7 +26,7 @@ body {
 
 #unit-entry-shell H1{
     text-align: center;
-    font-size: 28px;
+    font-size: 24px;
     font-weight: 800;
     padding-top: 33px;
     padding-left: 50px;
